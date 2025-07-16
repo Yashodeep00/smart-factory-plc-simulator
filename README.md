@@ -226,4 +226,12 @@ Refer to `doc/ProblemAndSolution.md`
 
 ------
 
-> last edit by LiuYuancheng (liu_yuan_cheng@hotmail.com) by 07/04/2024 if you have any problem, please send me a message. 
+> last edit by LiuYuancheng (liu_yuan_cheng@hotmail.com) by 07/04/2024 if you have any problem, please send me a message.
+> ---
+
+## 📄 License
+
+This project is licensed under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.en.html).
+
+Original base project by [LiuYuancheng](https://github.com/LiuYuancheng/PLC_and_RTU_Simulator).  
+This fork has been modified, renamed, and customized by [Yashodeep](https://github.com/Yashodeep00) for smart factory simulation and academic/industrial use.
